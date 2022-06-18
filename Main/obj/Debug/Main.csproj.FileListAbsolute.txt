@@ -1,0 +1,26 @@
+D:\Программирование\C#\ПМ.01\Калькулятор\Main\Main\bin\Debug\Main.exe.config
+D:\Программирование\C#\ПМ.01\Калькулятор\Main\Main\bin\Debug\Main.exe
+D:\Программирование\C#\ПМ.01\Калькулятор\Main\Main\bin\Debug\Main.pdb
+D:\Программирование\C#\ПМ.01\Калькулятор\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+D:\Программирование\C#\ПМ.01\Калькулятор\Main\Main\obj\Debug\Main.Exercise.resources
+D:\Программирование\C#\ПМ.01\Калькулятор\Main\Main\obj\Debug\Main.Main.resources
+D:\Программирование\C#\ПМ.01\Калькулятор\Main\Main\obj\Debug\Main.Properties.Resources.resources
+D:\Программирование\C#\ПМ.01\Калькулятор\Main\Main\obj\Debug\Main.csproj.GenerateResource.cache
+D:\Программирование\C#\ПМ.01\Калькулятор\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\Программирование\C#\ПМ.01\Калькулятор\Main\Main\obj\Debug\Main.exe
+D:\Программирование\C#\ПМ.01\Калькулятор\Main\Main\obj\Debug\Main.pdb
+D:\Программирование\C#\ПМ.01\Калькулятор\Main\Main\bin\Debug\MaterialSkin.dll
+D:\Программирование\C#\ПМ.01\Калькулятор\Main\Main\obj\Debug\Main.csproj.CopyComplete
+F:\ПМ.01\Электронный калькулятор\Main\bin\Debug\Main.exe.config
+F:\ПМ.01\Электронный калькулятор\Main\bin\Debug\Main.exe
+F:\ПМ.01\Электронный калькулятор\Main\bin\Debug\Main.pdb
+F:\ПМ.01\Электронный калькулятор\Main\bin\Debug\MaterialSkin.dll
+F:\ПМ.01\Электронный калькулятор\Main\obj\Debug\Main.csprojAssemblyReference.cache
+F:\ПМ.01\Электронный калькулятор\Main\obj\Debug\Main.Exercise.resources
+F:\ПМ.01\Электронный калькулятор\Main\obj\Debug\Main.Main.resources
+F:\ПМ.01\Электронный калькулятор\Main\obj\Debug\Main.Properties.Resources.resources
+F:\ПМ.01\Электронный калькулятор\Main\obj\Debug\Main.csproj.GenerateResource.cache
+F:\ПМ.01\Электронный калькулятор\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+F:\ПМ.01\Электронный калькулятор\Main\obj\Debug\Main.csproj.CopyComplete
+F:\ПМ.01\Электронный калькулятор\Main\obj\Debug\Main.exe
+F:\ПМ.01\Электронный калькулятор\Main\obj\Debug\Main.pdb
